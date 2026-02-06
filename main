@@ -1,0 +1,48 @@
+[
+  {
+    "title": "Vyprávěj",
+    "image": "https://r1.supcdn25.com/user576/media/b/tv-shows/s68c7152803b4c-fu0v21aqe3.webp?1b267619c4812cc46ee281747884ca50?1b267619c4812cc46ee281747884ca50",
+    "desc": "lmaooo",
+    "link": "https://f16px.com/e/wk96x5zo49lk?sub.info=https://intromon7a1bdcdb126a33.tuctuc.lat/jjj/",
+    "isSeries": false
+  },
+  {
+    "title": "Your Series Title",
+    "image": "https://example.com/series-poster.jpg",
+    "desc": "A brief description of your series goes here.",
+    "isSeries": true,
+    "seasons": 3,
+    "episodes": [
+      {
+        "season": 1,
+        "episode": 1,
+        "link": "https://example.com/embed/s1e1"
+      },
+      {
+        "season": 1,
+        "episode": 2,
+        "link": "https://example.com/embed/s1e2"
+      },
+      {
+        "season": 1,
+        "episode": 3,
+        "link": "https://example.com/embed/s1e3"
+      },
+      {
+        "season": 2,
+        "episode": 1,
+        "link": "https://example.com/embed/s2e1"
+      },
+      {
+        "season": 2,
+        "episode": 2,
+        "link": "https://example.com/embed/s2e2"
+      },
+      {
+        "season": 3,
+        "episode": 1,
+        "link": "https://example.com/embed/s3e1"
+      }
+    ]
+  }
+]
